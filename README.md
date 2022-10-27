@@ -1,1 +1,1 @@
-#exercicios com linguagem sql e bando de dados posgresql
+#exercícios com linguagem sql e banco de dados posgresql
